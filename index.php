@@ -35,12 +35,13 @@
 			<form method="post" action="addMap.php">
 				<div class="form-group">
     				<label for="exampleInputEmail1">Nama Tempat</script></label>
-					<input type="text" name="nama">
+					<input type="text" name="nama" placeholder="Location">
 				</div>
 				<div class="form-group">
     				<label for="exampleInputEmail1">Latitude</script></label>
 					<input type="text" id="lat" name="latitude">
 				</div>
+        <br>
 				<div class="form-group">
     				<label for="exampleInputEmail1">Longitude</label>
 					<input type="text" id="lng" name="longitude">
