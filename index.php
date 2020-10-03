@@ -81,7 +81,7 @@ function putDraggable() {
 // Format Icon
 var Icon = L.icon({
     iconUrl: 'icon.png',
-    iconSize:     [30, 38], // size of the icon
+    iconSize:     [30, 37], // size of the icon
 });
    
   function addMarker() {
