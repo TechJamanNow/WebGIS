@@ -39,12 +39,12 @@
 				</div>
 				<div class="form-group">
     				<label for="exampleInputEmail1">Latitude</script></label>
-					<input type="text" id="lat" name="latitude">
+					<input type="text" id="lat" name="latitude" placeholder="latitude">
 				</div>
         <br>
 				<div class="form-group">
     				<label for="exampleInputEmail1">Longitude</label>
-					<input type="text" id="lng" name="longitude">
+					<input type="text" id="lng" name="longitude" placeholder="longitude">
 				</div>
 			<button type="submit" name="submit" class="btn btn-primary">Submit</button>
 			</form>
