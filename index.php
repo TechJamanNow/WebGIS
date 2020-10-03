@@ -99,4 +99,5 @@ var Icon = L.icon({
 
 </script>
 </body>
+<footer><span>&#169;</span> 2020 </footer>
 </html>
