@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
     die("Query Failed.");
   }
 
-  $_SESSION['message'] = 'Task Saved Successfully';
+  $_SESSION['message'] = 'Berhasil Tersimpan';
   $_SESSION['message_type'] = 'success';
   header('Location: index.php');
 
